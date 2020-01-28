@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/test2/node_modules
 /.pnp
 .pnp.js
 .idea/
